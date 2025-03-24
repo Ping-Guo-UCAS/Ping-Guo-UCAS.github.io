@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Ping Guo"
   pronouns         : # example: "she/her"  
-  bio              : "LLM Researcher @ TikTok//Ph.D student @ UCAS"
+  bio              : "LLM Researcher @ TikTok /n Ph.D student @ UCAS"
   location         : "Beijing"
   employer         : "TikTok"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=P-w3xmoAAAAJ"
   impactstory      : # URL
-  OpenReview       : # "https://openreview.net/profile?id=~Ping_Guo5"
+  OpenReview       : "https://openreview.net/profile?id=~Ping_Guo5"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

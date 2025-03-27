@@ -1,54 +1,286 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## 👋 About Me  
-Hi! My name is Ping Guo (郭平). I am a Ph.D. student at the School of Cyberspace Security, University of Chinese Academy of Sciences, where I am advised by Prof. Yue Hu. Before that, I received my B.Eng. degree in Automation from the School of Information Science and Engineering at Northeastern University in 2019.  
+Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusing on the foundational training of large language models, particularly in the multilingual pretraining and CPT areas. I achieved my Ph.D. diploma at the [School of Cyberspace Security, University of Chinese Academy of Sciences](https://scs.ucas.ac.cn/index.php/zh-cn/), where I was advised by [Prof. Yue Hu](https://people.ucas.ac.cn/~0031884). Before that, I received my B.Eng. degree in Automation from the [School of Information Science and Engineering at Northeastern University](http://www.ise.neu.edu.cn/) in 2019.  
 
-Currently, I am working at TikTok, focusing on the foundational training of large language models, particularly in the multilingual pretraining and CPT areas.  
 
-Previously, I was a research intern at Alibaba DAMO Academy and the Amazon JP Search Team.  
+<!-- # ⭐ Research Highlights 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/probe.png" alt="LLM Watermarking Overview">
+</div>
+<div class="paper-text">
+<div class="paper-title">Can Watermarked LLMs be Identified by Users via Crafted Prompts?</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Aiwei Liu</strong>, Sheng Guan, Yiming Liu, Leyi Pan, Yifei Zhang, Liancheng Fang, Lijie Wen, Philip S. Yu, Xuming Hu</p>
+<p class="paper-venue">Proceedings of ICLR 2025 <strong>(Spotlight)</strong></p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2410.03168">[Paper]</a> <a href="https://github.com/THU-BPM/Watermarked_LLM_Identification">[Code]</a></p>
+</div>
+</div>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/tis-dpo.png" alt="LLM Watermarking Overview">
+</div>
+<div class="paper-text">
+<div class="paper-title">TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Aiwei Liu</strong>, Haoping Bai, Zhiyun Lu, Yanchao Sun, Xiang Kong, Simon Wang, Jiulong Shan, Albin Madappally Jose, Xiaojiang Liu, Lijie Wen, Philip S. Yu, Meng Cao</p>
+<p class="paper-venue">Proceedings of ICLR 2025</p>
+<p class="paper-links"><a href="https://arxiv.org/abs/2410.04350">[Paper]</a> <a href="https://arxiv.org/abs/2410.04350">[Code]</a></p>
+</div>
+</div>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/markllm.png" alt="LLM Watermarking Overview">
+</div>
+<div class="paper-text">
+<div class="paper-title">MarkLLM: An Open-Source Toolkit for LLM Watermarking</div>
+<p class="paper-authors">Leyi Pan, <strong style="text-decoration-line: underline;">Aiwei Liu*</strong>, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
+<p class="paper-venue">Proceedings of EMNLP 2024 Demo</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2405.10051">[Paper]</a> <a href="https://github.com/THU-BPM/MarkLLM">[Code]</a> <a href="https://colab.research.google.com/drive/169MS4dY6fKNPZ7-92ETz1bAm_xyNAs0B?usp=sharing">[Google Colab]</a> <a href="https://mp.weixin.qq.com/s/lx9ZNeHae4mo1J6_sFubfg">[机器之心]</a></p>
+</div>
+</div>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/survey.png" alt="LLM Watermarking Overview">
+</div>
+<div class="paper-text">
+<div class="paper-title">A Survey of Text Watermarking in the Era of Large Language Models</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Aiwei Liu</strong>, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, Philip S. Yu</p>
+<p class="paper-venue">ACM Computing Surveys (IF: 23.8)</p>
+<p class="paper-links"><a href="https://arxiv.org/pdf/2312.07913.pdf">[Paper]</a> <a href="https://survey-text-watermark.github.io/">[Home]</a> <a href="https://mp.weixin.qq.com/s/U3ZzGsi3Yihueqr6MGRHfg">[机器之心]</a> <a href="https://x.com/Aiwei_Liu_99/status/1821673541026099519">[Twitter]</a></p>
+</div>
+</div>
+ -->
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+<!-- # 🔥 News
+- *2025.01*: 🎉🎉 Two papers are accepted by [NAACL 2025](https://2025.naacl.org/).
+- *2025.01*: 🎉🎉 Three papers are accepted by [ICLR 2025](https://iclr.cc/).
+- *2024.10*: 🎉🎉 Excited to announce the our paper: [MarkLLM: An Open-Source Toolkit for LLM Watermarking](https://arxiv.org/pdf/2405.10051) is accepted by [EMNLP 2024 Demo Track](https://2024.emnlp.org/).
+- *2024.09*: 🎉 One paper about Retrieval-Augmented Large Language Models is accepted by [EMNLP 2024](https://2024.emnlp.org/).
+- *2024.08*: 🎉🎉 Excited to announce the our paper: "A Survey of Text Watermarking in the Era of Large Language Models" [Paper](https://arxiv.org/pdf/2312.07913) is accepted by [ACM Computing Surveys](https://dl.acm.org/journal/csur)!
+- *2024.08*: Invited as a reviewer for [ICLR 2025](https://iclr.cc/).
+- *2024.08*: 🎉🎉 Excited to announce the updated version of our paper: "A Survey of Text Watermarking in the Era of Large Language Models" [Paper](https://arxiv.org/pdf/2312.07913)!
+- *2024.05*: 🎉🎉 One paper about Large Language Model Alignment is accepted by [ACL 2024](https://2024.aclweb.org/).
+- *2024.05*: 🎉🎉 Two papers about watermark for Large Language Models are accepted by [ACL 2024](https://2024.aclweb.org/).
+- *2024.05*: 🎉🎉 One paper about Document Relation Extraction is accepted by [Findings of ACL 2024](https://2024.aclweb.org/).
+- *2024.04*: 🎉🎉 Our tutorial proposal "Preventing and Detecting Misinformation Generated by Large Language Models" is accepted by SIGIR 2024. [SIGIR 2024](https://sigir-2024.github.io/).
+- *2024.04*: Invited as a reviewer for [ACMMM 2024](https://2024.acmmm.org/).
+- *2024.04*: Invited as a reviewer for [ACL ARR April](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/April).
+- *2024.02*: Invited as a reviewer for [ACL ARR February](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/February).
+- *2024.01*: 🎉🎉 Two papers about watermark for Large Language Models are accepted by [ICLR 2024](https://iclr.cc/).
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+ -->
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<!-- # 🔬 Research
+
+* Preventing and Detecting Misinformation Generated by Large Language Models **<span style="color: #ff6666;">(SIGIR 2024 Tutorial)</span>** [[Home]](https://sigir24-llm-misinformation.github.io/) [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3661377)[[Conference Page]](https://sigir-2024.github.io/attend_Tutorials.html#tut5) 1️⃣ 
+
+**Watermark for Large Language Models**
+
+*  An Unforgeable Publicly Verifiable Watermark for Large Language Models **<span style="color: #ff6666;">(ICLR 2024)</span>** [[Paper]](https://arxiv.org/pdf/2307.16230.pdf) [[Code]](https://github.com/THU-BPM/unforgeable_watermark) 1️⃣
+*  A Semantic Invariant Robust Watermark for Large Language Models **<span style="color: #ff6666;">(ICLR 2024)</span>** [[Paper]](https://arxiv.org/pdf/2310.06356.pdf) [[Code]](https://github.com/THU-BPM/Robust_Watermark)1️⃣
+*  A Survey of Text Watermarking in the Era of Large Language Models **<span style="color: #ff6666;">(ACM Computing Surveys)</span>** [[Paper]](https://arxiv.org/pdf/2312.07913.pdf)[[机器之心]](https://mp.weixin.qq.com/s/U3ZzGsi3Yihueqr6MGRHfg) [[Twitter]](https://x.com/Aiwei_Liu_99/status/1821673541026099519) [[Home]](https://survey-text-watermark.github.io/)  1️⃣
+*  Can Watermarked LLMs be Identified by Users via Crafted Prompts? **<span style="color: #ff6666;">(ICLR 2025)</span>** [[Paper]](https://arxiv.org/abs/2410.03168) 1️⃣
+*  MarkLLM: An Open-Source Toolkit for LLM Watermarking **<span style="color: #ff6666;">(EMNLP 2024 Demo)</span>** [[Paper]](https://arxiv.org/pdf/2405.10051) [[机器之心]](https://mp.weixin.qq.com/s/lx9ZNeHae4mo1J6_sFubfg) [[Code]](https://github.com/THU-BPM/MarkLLM)💡 
+* An Entropy-based Text Watermarking Detection Method **<span style="color: #ff6666;">(ACL 2024 Main)</span>** [[Paper]](https://arxiv.org/pdf/2403.13485.pdf) [[Code]](https://github.com/luyijian3/EWD)💡 
+* Cross-lingual Consistency for Text Watermark **<span style="color: #ff6666;">(ACL 2024 Main)</span>** [[Paper]](https://arxiv.org/pdf/2402.14007.pdf) [[Code]](https://github.com/zwhe99/X-SIR)💡
+* WaterSeeker: Pioneering Efficient Detection of Watermarked Segments in Large Documents **<span style="color: #ff6666;">(NAACL 2025 Findings)</span>** [[Paper]](https://arxiv.org/pdf/2409.05112) 💡
+
+
+**Safety Alignment for Large Language Models**
+
+* Direct Large Language Model Alignment Through Self-Rewarding Contrastive Prompt Distillation **<span style="color: #ff6666;">(ACL 2024 Main)</span>** [[Paper]](https://arxiv.org/pdf/2402.11907.pdf) [[Apple Website]](https://machinelearning.apple.com/research/direct-large-language)1️⃣
+* TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights **<span style="color: #ff6666;">(ICLR 2025)</span>** [[Paper]](https://arxiv.org/pdf/2410.04350v1) 1️⃣
+
+**Adversarial Examples for Large Language Models**
+
+* Character-level White-Box Adversarial Attacks against Transformers via Attachable Subwords Substitution **<span style="color: #ff6666;">(EMNLP 2022 Main)</span>** [[Paper]](https://aclanthology.org/2022.emnlp-main.522) [[Code]](https://github.com/THU-BPM/CWBA)1️⃣
+
+**Semantic Parsing with Large Language Models**
+
+* Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph **<span style="color: #ff6666;">(SIGKDD 2022)</span>**  [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539294) [[Code]](https://github.com/THU-BPM/ISESL-SQL)1️⃣ 
+* Exploring the Compositional Generalization in Context Dependent Text-to-SQL Parsing **<span style="color: #ff6666;">(ACL 2023 Findings)</span>** [[Paper]](https://aclanthology.org/2023.findings-acl.43.pdf) [[Code]](https://github.com/THU-BPM/CD-Text2SQL-CG)1️⃣
+* A comprehensive evaluation of ChatGPT's zero-shot Text-to-SQL capability **<span style="color: #ff6666;">(Pre-print)</span>**  [[Paper]](https://arxiv.org/abs/2303.13547) [[Code]](https://github.com/THU-BPM/chatgpt-sql) 1️⃣
+
+**Fact Checking with Large Language Models**
+
+* CHEF: A Pilot Chinese Dataset for Evidence-Based Fact-Checking  **<span style="color: #ff6666;">(NAACL 2022)</span>**[[Paper]](https://arxiv.org/abs/2206.11863)  [[Code]](https://github.com/THU-BPM/CHEF)💡 
+  
+
+**Retrieval-Augmented Large Language Models**
+
+* Entropy-Based Decoding for Retrieval-Augmented Large Language Models **<span style="color: #ff6666;">(MINT@NeurIPS2024)</span>**[[Paper]](https://arxiv.org/pdf/2406.17519) 💡 
+* Refiner: Restructure Retrieval Content Efficiently to Advance Question-Answering Capabilities **<span style="color: #ff6666;">(EMNLP 2024 Findings)</span>**[[Paper]](https://arxiv.org/pdf/2406.11357) 💡  -->
+
+<!-- **Information Extraction**
+
+* GDA: Generative Data Augmentation Techniques for Relation Extraction Tasks [[ACL 2023 Findings]](https://arxiv.org/abs/2305.16663) 🏅 
+* RAPL: A Relation-Aware Prototype Learning Approach for Few-Shot Document-Level Relation Extraction [[EMNLP 2023]](https://aclanthology.org/2023.emnlp-main.316.pdf) 💡 
+* Reading Broadly to Open Your Mind Improving Open Relation Extraction With Search Documents Under Self-Supervisions [[TKDE]](https://ieeexplore.ieee.org/abstract/document/10255305) 💡
+* Entity-to-Text based Data Augmentation with Semantic Coherence and Entity Preserving for various NER Tasks [[ACL 2023 Findings]](https://aclanthology.org/2023.findings-acl.578.pdf) 💡
+* Guassian Prior Reinforcement Learning for Nested Named Entity Recognition [[ICASSP 2023]](https://ieeexplore.ieee.org/abstract/document/10097163/) 💡 -->
+
+
+<!-- ---
+
+1️⃣: Leading contribution (First Author)
+💡: Insightful contribution
+
+---
+   -->
+
+# 📞 Contact
+
+- 📧 **Email**:
+  -  guoping.114@bytedance.com
+  -  gp826923024@gmail.com
+- 💬 **Wechat**:
+  - PiTooYoung
+
+
+# 🎓 Education
+
+<div style="display: flex; margin-bottom: 2em; align-items: center;">
+    <div style="margin-right: 2em;">
+        <img src="images/tsinghua.svg" alt="Tsinghua University Logo" style="width: 80px; height: auto;">
+    </div>
+    <div>
+        <div style="font-weight: bold;">University of Chinese Academy of Sciences, China</div>
+        <div style="font-style: italic;">Ph.D. in Software Engineering</div>
+        <div>Sept. 2019 - June 2024 </div>
+    </div>
+</div>
+
+<div style="display: flex; margin-bottom: 2em; align-items: center;">
+    <div style="margin-right: 2em;">
+        <img src="images/nanjing.png" alt="Nanjing University Logo" style="width: 80px; height: auto;">
+    </div>
+    <div>
+        <div style="font-weight: bold;">Northeastern University, China</div>
+        <div style="font-style: italic;">B.E. in Electrical Engineering</div>
+        <div>Sept. 2015 - June 2019</div>
+    </div>
+</div>
+
+<p align="center" style="padding-top: 40px;">
+  <a href="https://clustrmaps.com/site/1bz29" title="Visit tracker">
+    <img src="//clustrmaps.com/map_v2.png?d=DX15I5ozLq5Q-wR0ekcNB17qazZ99Mm2sOgYD9FXvrM&cl=ffffff&w=300&t=tt&d=DX15I5ozLq5Q-wR0ekcNB17qazZ99Mm2sOgYD9FXvrM" />
+  </a>
+</p>
+<p align="center" style="padding-top: 100px;"> 
+</p>
+
+<style>
+.paper-container {
+    display: flex;
+    gap: 20px;
+    margin: 30px 0;
+    padding: 15px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+hr {
+    margin: 10px 0;
+    height: 1px;
+    background-color: #ddd;
+    border: none;
+}
+
+.paper-image {
+    flex: 0 0 300px;
+    min-width: 0;
+}
+
+.paper-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    border: 1px solid #eee;
+}
+
+.paper-text {
+    flex: 1;
+    min-width: 0;
+}
+
+.spotlight-badge {
+    display: inline-block;
+    background-color: #FFD700;
+    color: #000;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 8px;
+    vertical-align: middle;
+    font-family: "Microsoft YaHei";
+}
+
+
+.paper-title {
+  font-family: "Microsoft YaHei",
+  font-weight: 2000;
+  -webkit-text-stroke: 0.9px black;  /* 添加描边效果使文字看起来更粗 */
+  font-size: 18px;
+  margin: 0 0 8px 0;
+  color: #000;
+}
+
+.paper-authors {
+  font-family: "Microsoft YaHei",
+   margin: 2px 0;
+    font-size: 14.5px;         /* 调小作者字体 */
+    color: rgba(0,0,0,0.9);    /* 更自然的灰色 */
+    font-weight: 400;          /* 更细的字重 */
+}
+
+.paper-venue {
+   font-family: "Microsoft YaHei",
+    color: #d83931;
+    font-style: italic;
+    font-size: 0.95em;
+    margin: 3px 0;
+}
+
+.paper-links {
+  font-family: "Microsoft YaHei",
+    font-size: 0.9em;
+    margin: 3px 0;
+}
+
+.paper-links a {
+    margin-right: 10px;
+    color: #4A90E2;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.paper-links a:hover {
+    color: #357ABD;
+}
+
+@media (max-width: 768px) {
+    .paper-container {
+        flex-direction: column;
+    }
+    
+    .paper-image {
+        flex: 0 0 auto;
+        width: 100%;
+    }
+}
+</style>

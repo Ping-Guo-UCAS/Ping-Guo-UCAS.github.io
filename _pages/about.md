@@ -10,56 +10,55 @@ redirect_from:
 Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusing on the foundational training of large language models, particularly in the multilingual pretraining and CPT areas. I achieved my Ph.D. diploma at the [School of Cyberspace Security, University of Chinese Academy of Sciences](https://scs.ucas.ac.cn/index.php/zh-cn/), where I was advised by [Prof. Yue Hu](https://people.ucas.ac.cn/~0031884). Before that, I received my B.Eng. degree in Automation from the [School of Information Science and Engineering at Northeastern University](http://www.ise.neu.edu.cn/) in 2019.  
 
 
-<!-- # ⭐ Research Highlights 
+# ⭐ Research Highlights 
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/probe.png" alt="LLM Watermarking Overview">
+<img src="images/emmax.png" alt="LLM Watermarking Overview">
 </div>
 <div class="paper-text">
-<div class="paper-title">Can Watermarked LLMs be Identified by Users via Crafted Prompts?</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Aiwei Liu</strong>, Sheng Guan, Yiming Liu, Leyi Pan, Yifei Zhang, Liancheng Fang, Lijie Wen, Philip S. Yu, Xuming Hu</p>
-<p class="paper-venue">Proceedings of ICLR 2025 <strong>(Spotlight)</strong></p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2410.03168">[Paper]</a> <a href="https://github.com/THU-BPM/Watermarked_LLM_Identification">[Code]</a></p>
-</div>
-</div>
-
-<div class="paper-container">
-<div class="paper-image">
-<img src="images/tis-dpo.png" alt="LLM Watermarking Overview">
-</div>
-<div class="paper-text">
-<div class="paper-title">TIS-DPO: Token-level Importance Sampling for Direct Preference Optimization With Estimated Weights</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Aiwei Liu</strong>, Haoping Bai, Zhiyun Lu, Yanchao Sun, Xiang Kong, Simon Wang, Jiulong Shan, Albin Madappally Jose, Xiaojiang Liu, Lijie Wen, Philip S. Yu, Meng Cao</p>
-<p class="paper-venue">Proceedings of ICLR 2025</p>
-<p class="paper-links"><a href="https://arxiv.org/abs/2410.04350">[Paper]</a> <a href="https://arxiv.org/abs/2410.04350">[Code]</a></p>
+<div class="paper-title">EMMA-X: An EM-like Multilingual Pre-training Algorithm for Cross-lingual Representation Learning</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Ping Guo</strong>, Xiangpeng Wei, Yue Hu, Baosong Yang, Dayiheng Liu, Fei Huang, Jun Xie</p>
+<p class="paper-venue">37th Conference on Neural Information Processing Systems (NeurIPS 2023) </p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/abs/10.5555/3666122.3666564">[Paper]</a> <a href="https://github.com/guopingiie/EMMA-X">[Code]</a></p>
 </div>
 </div>
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/markllm.png" alt="LLM Watermarking Overview">
+<img src="images/mimir.png" alt="LLM Watermarking Overview">
 </div>
 <div class="paper-text">
-<div class="paper-title">MarkLLM: An Open-Source Toolkit for LLM Watermarking</div>
-<p class="paper-authors">Leyi Pan, <strong style="text-decoration-line: underline;">Aiwei Liu*</strong>, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu</p>
-<p class="paper-venue">Proceedings of EMNLP 2024 Demo</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2405.10051">[Paper]</a> <a href="https://github.com/THU-BPM/MarkLLM">[Code]</a> <a href="https://colab.research.google.com/drive/169MS4dY6fKNPZ7-92ETz1bAm_xyNAs0B?usp=sharing">[Google Colab]</a> <a href="https://mp.weixin.qq.com/s/lx9ZNeHae4mo1J6_sFubfg">[机器之心]</a></p>
+<div class="paper-title">Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Ping Guo</strong>, Yue Hu, Yanan Cao, Yubing Ren, Yunpeng Li, Heyan Huang</p>
+<p class="paper-venue">WWW '24: Proceedings of the ACM Web Conference 2024 </p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/proceedings/10.1145/3589334">[Paper]</a></p>
 </div>
 </div>
 
 <div class="paper-container">
 <div class="paper-image">
-<img src="images/survey.png" alt="LLM Watermarking Overview">
+<img src="images/amsr.png" alt="LLM Watermarking Overview">
 </div>
 <div class="paper-text">
-<div class="paper-title">A Survey of Text Watermarking in the Era of Large Language Models</div>
-<p class="paper-authors"><strong style="text-decoration-line: underline;">Aiwei Liu</strong>, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Xi Zhang, Lijie Wen, Irwin King, Hui Xiong, Philip S. Yu</p>
-<p class="paper-venue">ACM Computing Surveys (IF: 23.8)</p>
-<p class="paper-links"><a href="https://arxiv.org/pdf/2312.07913.pdf">[Paper]</a> <a href="https://survey-text-watermark.github.io/">[Home]</a> <a href="https://mp.weixin.qq.com/s/U3ZzGsi3Yihueqr6MGRHfg">[机器之心]</a> <a href="https://x.com/Aiwei_Liu_99/status/1821673541026099519">[Twitter]</a></p>
+<div class="paper-title">Steering Large Language Models for Cross-lingual Information Retrieval</div>
+<p class="paper-authors"><strong style="text-decoration-line: underline;">Ping Guo</strong>, Yubing Ren, Yue Hu, Yanan Cao, Yunpeng Li, Heyan Huang</p>
+<p class="paper-venue">SIGIR '24: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval </p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3626772.3657819">[Paper]</a> </p>
 </div>
 </div>
- -->
+
+<div class="paper-container">
+<div class="paper-image">
+<img src="images/riw.png" alt="LLM Watermarking Overview">
+</div>
+<div class="paper-text">
+<div class="paper-title">Subtle Signatures, Strong Shields: Advancing Robust and Imperceptible Watermarking in Large Language Models</div>
+<p class="paper-authors">Yubing Ren, <strong style="text-decoration-line: underline;">Ping Guo</strong>, Yanan Cao, Wei Ma</p>
+<p class="paper-venue">Findings of the Association for Computational Linguistics: ACL 2024</p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a></p>
+</div>
+</div>
 
 
 <!-- # 🔥 News
@@ -158,7 +157,7 @@ Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusin
     </div>
     <div>
         <div style="font-weight: bold;">University of Chinese Academy of Sciences, China</div>
-        <div style="font-style: italic;">Ph.D. in Software Engineering</div>
+        <div style="font-style: italic;">Ph.D. in Computer Technology</div>
         <div>Sept. 2019 - June 2024 </div>
     </div>
 </div>

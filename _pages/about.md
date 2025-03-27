@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is in main branch.
+
 Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusing on the foundational training of large language models, particularly in the multilingual pretraining and CPT areas. I achieved my Ph.D. diploma at the [School of Cyberspace Security, University of Chinese Academy of Sciences](https://scs.ucas.ac.cn/index.php/zh-cn/), where I was advised by [Prof. Yue Hu](https://people.ucas.ac.cn/~0031884). Before that, I received my B.Eng. degree in Automation from the [School of Information Science and Engineering at Northeastern University](http://www.ise.neu.edu.cn/) in 2019.  
 
 
@@ -32,7 +32,7 @@ Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusin
 <div class="paper-title">Query in Your Tongue: Reinforce Large Language Models with Retrievers for Cross-lingual Search Generative Experience</div>
 <p class="paper-authors"><strong style="text-decoration-line: underline;">Ping Guo</strong>, Yue Hu, Yanan Cao, Yubing Ren, Yunpeng Li, Heyan Huang</p>
 <p class="paper-venue">WWW '24: Proceedings of the ACM Web Conference 2024 </p>
-<p class="paper-links"><a href="https://dl.acm.org/doi/proceedings/10.1145/3589334">[Paper]</a></p>
+<p class="paper-links"><a href="https://dl.acm.org/doi/10.1145/3589334.3645701">[Paper]</a></p>
 </div>
 </div>
 

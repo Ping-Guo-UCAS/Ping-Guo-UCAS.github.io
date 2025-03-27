@@ -154,7 +154,7 @@ Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusin
 
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/tsinghua.svg" alt="Tsinghua University Logo" style="width: 80px; height: auto;">
+        <img src="images/cas_logo.png" alt="Chinese Academy of Sciences Logo" style="width: 80px; height: auto;">
     </div>
     <div>
         <div style="font-weight: bold;">University of Chinese Academy of Sciences, China</div>
@@ -165,7 +165,7 @@ Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusin
 
 <div style="display: flex; margin-bottom: 2em; align-items: center;">
     <div style="margin-right: 2em;">
-        <img src="images/nanjing.png" alt="Nanjing University Logo" style="width: 80px; height: auto;">
+        <img src="images/neu_logo.png" alt="Northeastern University Logo" style="width: 80px; height: auto;">
     </div>
     <div>
         <div style="font-weight: bold;">Northeastern University, China</div>

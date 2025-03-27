@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "👋 About Me"
+title: "Ping's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# 👋 About Me
 
 Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusing on the foundational training of large language models, particularly in the multilingual pretraining and CPT areas. I achieved my Ph.D. diploma at the [School of Cyberspace Security, University of Chinese Academy of Sciences](https://scs.ucas.ac.cn/index.php/zh-cn/), where I was advised by [Prof. Yue Hu](https://people.ucas.ac.cn/~0031884). Before that, I received my B.Eng. degree in Automation from the [School of Information Science and Engineering at Northeastern University](http://www.ise.neu.edu.cn/) in 2019.  
 

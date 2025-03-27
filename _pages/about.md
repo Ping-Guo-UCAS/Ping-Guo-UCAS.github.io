@@ -174,12 +174,11 @@ Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusin
 </div>
 
 <p align="center" style="padding-top: 40px;">
-  <a href="https://clustrmaps.com/site/1bz29" title="Visit tracker">
-    <img src="//clustrmaps.com/map_v2.png?d=DX15I5ozLq5Q-wR0ekcNB17qazZ99Mm2sOgYD9FXvrM&cl=ffffff&w=300&t=tt&d=DX15I5ozLq5Q-wR0ekcNB17qazZ99Mm2sOgYD9FXvrM" />
-  </a>
+<a href="https://clustrmaps.com/site/1c55y"  title="Visit"><img src="//www.clustrmaps.com/map_v2.png?d=PEXVjQ9GhNNd4SArp_aOmAF_PL1vH3DTErVjd04eKeE&cl=ffffff" /></a>
 </p>
 <p align="center" style="padding-top: 100px;"> 
 </p>
+
 
 <style>
 .paper-container {

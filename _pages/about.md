@@ -57,7 +57,7 @@ Hi! My name is **Ping Guo (郭平)**. Currently, I am working at TikTok, focusin
 <div class="paper-title">Subtle Signatures, Strong Shields: Advancing Robust and Imperceptible Watermarking in Large Language Models</div>
 <p class="paper-authors">Yubing Ren, <strong style="text-decoration-line: underline;">Ping Guo</strong>, Yanan Cao, Wei Ma</p>
 <p class="paper-venue">Findings of the Association for Computational Linguistics: ACL 2024</p>
-<p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a></p>
+<p class="paper-links"><a href="https://aclanthology.org/2024.findings-acl.327/">[Paper]</a> <a href="https://github.com/Lilice-r/RIW">[Code]</a> </p>
 </div>
 </div>
 
